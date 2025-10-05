@@ -1,0 +1,16 @@
+{
+  "swapRepetitions": 2,
+  "wethSwapRange": {
+    "min": 0.001,
+    "max": 0.002
+  },
+  "twrSwapRange": {
+    "min": 5,
+    "max": 10
+  },
+  "usdcSwapRange": {
+    "min": 5,
+    "max": 10
+  },
+  "loopHours": 12
+}
